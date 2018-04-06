@@ -15,9 +15,15 @@ Please be sure to use the following citation in any publications made possible t
 ##File Name Key
 
 AGW -> A Good World
+
 Entropy -> Entropy
+
 EOC -> Explode on Contact
+
 EQ -> Equilibrium
+
 FF -> Fickle Folk
+
 PZH -> Philosophical Zombie Hunter
+
 SSF -> Simon Says Freeze
